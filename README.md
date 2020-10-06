@@ -1,4 +1,5 @@
-### Namaste! Welcome to my profile :)
+### Namaste! Welcome to my profile!😄
+I am Antara Banerjee, a second year undergraduate student in Electrical engineering at IIT BHU Varanasi. 
 
 <!--
 **AntaraB1005/AntaraB1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
