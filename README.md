@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste!Welcome to my profile :)
 
 <!--
 **AntaraB1005/AntaraB1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
