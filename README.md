@@ -1,7 +1,7 @@
 ### Namaste! Welcome to my profile!😄
 I am Antara Banerjee, a second year undergraduate student in Electrical engineering at IIT BHU Varanasi. An inquisitive learner, currently exploring the field of Machine Learning and its diverse applications in real world problems. Also passionate about music, playing the synthesizer and art works.
 
-![Antara's github stats](https://github-readme-stats.vercel.app/api?username=AntaraB1005&show_icons=true&theme=radical)
+![Antara's github stats](https://github-readme-stats.vercel.app/api?username=AntaraB1005&show_icons=true&theme=dracula)
 <!--
 **AntaraB1005/AntaraB1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
