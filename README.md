@@ -1,5 +1,5 @@
 ### Welcome to my profile!
-I am Antara Banerjee, a third year undergraduate student in Electrical engineering at IIT BHU Varanasi. An inquisitive learner who is keen on working on projects to solve real world problems. Also passionate about music, playing the synthesizer and art works.
+I am Antara Banerjee, a third year undergraduate student in Electrical engineering at IIT BHU Varanasi. An inquisitive learner who is keen on working on projects that intend to solve real world problems. Also passionate about music, playing the synthesizer and art works.
 
 ![Antara's github stats](https://github-readme-stats.vercel.app/api?username=AntaraB1005&show_icons=true&theme=dracula)
 
